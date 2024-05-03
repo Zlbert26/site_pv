@@ -70,9 +70,9 @@ body {
         border-bottom: 4px solid var(--verde);
      }
      .abas-textos{
-        background-color: var(--texto-fundo); }
         
-        <div class=»conteudo»>
+        background-color: var(--texto-fundo); }
+        <div class="conteudo">
 <div class=»botoes»> ... </div>
 <div class=»abas-textos»> ... </div>
 </div>
