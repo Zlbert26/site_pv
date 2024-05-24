@@ -86,3 +86,8 @@ body {
     font-size: 28px;
     text-align: center;
 }
+.aba-conteudo-secundario{
+    text-align: center;
+    color: #05a136;
+    text-transform: uppercase;
+}
