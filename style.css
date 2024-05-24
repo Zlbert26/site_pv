@@ -75,7 +75,7 @@ body {
 }
 .aba-conteudo-secundario{
     text-align: center;
-    color:var(--verde);
+    color:var(--botao-ativo);
     text-transform: uppercase;
 }
 
