@@ -76,9 +76,9 @@ body {
     background-color: var(--texto-fundo); 
 }
 
-.abas-conteudo.ativo{
+.aba-conteudo.ativo{
     display:block; 
 }
-.abas-conteudo{
+.aba-conteudo{
     display: none;
 }
