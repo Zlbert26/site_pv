@@ -82,3 +82,7 @@ body {
 .aba-conteudo{
     display: none;
 }
+.aba-conteudo-principal{
+    font-size: 28px;
+    text-align: center;
+}
