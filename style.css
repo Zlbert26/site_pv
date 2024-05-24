@@ -69,11 +69,11 @@ body {
 .aba-conteudo{
     display: none;
 }
-.aba-conteudo-principal{
+.aba-conteudo-titulo-principal{
     font-size: 28px;
     text-align: center;
 }
-.aba-conteudo-secundario{
+.aba-conteudo-titulo-secundario{
     text-align: center;
     color:var(--botao-ativo);
     text-transform: uppercase;
